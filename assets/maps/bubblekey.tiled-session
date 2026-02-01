@@ -1,0 +1,28 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "escenarios.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "escenarios.tmx": {
+            "scale": 0.78375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 480.38277511961724,
+                "y": 319.61722488038276
+            }
+        }
+    },
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": "1",
+    "openFiles": [
+        "escenarios.tmx"
+    ],
+    "project": "bubblekey.tiled-project",
+    "recentFiles": [
+        "escenarios.tmx"
+    ]
+}

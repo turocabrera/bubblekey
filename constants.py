@@ -1,0 +1,3 @@
+ASSETS_PATH = "assets/"
+MAPS_PATH = ASSETS_PATH + "maps/"
+SPRITES_PATH = ASSETS_PATH + "sprites/"
