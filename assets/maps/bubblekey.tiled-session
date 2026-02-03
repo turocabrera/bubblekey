@@ -5,17 +5,36 @@
     },
     "activeFile": "escenarios.tmx",
     "expandedProjectPaths": [
+        "."
     ],
+    "file.lastUsedOpenFilter": "Todos los archivos (*)",
     "fileStates": {
+        "2307.w032.n002.1017B.p15.1017.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "45371.tsx": {
+            "scaleInDock": 0.1,
+            "scaleInEditor": 1
+        },
+        "464.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "escenarios.tmx": {
             "scale": 0.78375,
-            "selectedLayer": 0,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 480.38277511961724,
-                "y": 319.61722488038276
+                "x": 507.17703349282294,
+                "y": 129.50558213716107
             }
+        },
+        "spritesbubble.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         }
     },
+    "last.imagePath": "C:/z/desarrollo/varios/python/practica/juegos/bubblekey/assets/sprites",
     "map.lastUsedFormat": "tmx",
     "map.layerDataFormat": "1",
     "openFiles": [
@@ -23,6 +42,11 @@
     ],
     "project": "bubblekey.tiled-project",
     "recentFiles": [
-        "escenarios.tmx"
-    ]
+        "escenarios.tmx",
+        "45371.tsx",
+        "2307.w032.n002.1017B.p15.1017.tsx",
+        "464.tsx",
+        "spritesbubble.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
 }
